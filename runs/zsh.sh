@@ -65,3 +65,26 @@ if [[ "$INSTALL_OMZ" == "y" ]]; then
 else
     echo "⏭️  Skipped oh-my-zsh install"
 fi
+
+# Plugin setup
+ZSH_CUSTOM="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}"
+
+echo "📦 Installing zsh plugins..."
+
+# zsh-autosuggestions
+if [ ! -d "$ZSH_CUSTOM/plugins/zsh-autosuggestions" ]; then
+    git clone https://github.com/zsh-users/zsh-autosuggestions "$ZSH_CUSTOM/plugins/zsh-autosuggestions"
+    echo "✅ Installed zsh-autosuggestions"
+fi
+
+# zsh-syntax-highlighting
+if [ ! -d "$ZSH_CUSTOM/plugins/zsh-syntax-highlighting" ]; then
+    git clone https://github.com/zsh-users/zsh-syntax-highlighting.git "$ZSH_CUSTOM/plugins/zsh-syntax-highlighting"
+    echo "✅ Installed zsh-syntax-highlighting"
+fi
+
+# zsh-z
+if [ ! -d "$ZSH_CUSTOM/plugins/zsh-z" ]; then
+    git clone https://github.com/agkozak/zsh-z "$ZSH_CUSTOM/plugins/zsh-z"
+    echo "✅ Installed zsh-z"
+fi
