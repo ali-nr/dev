@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Default Bookmark Guid</key>
+        <string>E3A62C56-6C57-4F9A-8E00-DEFAULT</string>
+        <key>LoadPrefsFromCustomFolder</key>
+        <true/>
+        <key>New Bookmarks</key>
+        <array>
+            <dict>
+                <key>Ansi 0 Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.0</real>
+                    <key>Green Component</key>
+                    <real>0.0</real>
+                    <key>Red Component</key>
+                    <real>0.0</real>
+                </dict>
+                <key>Ansi 1 Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.0</real>
+                    <key>Green Component</key>
+                    <real>0.0</real>
+                    <key>Red Component</key>
+                    <real>0.8</real>
+                </dict>
+                <key>Ansi 2 Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.0</real>
+                    <key>Green Component</key>
+                    <real>0.8</real>
+                    <key>Red Component</key>
+                    <real>0.0</real>
+                </dict>
+                <key>Ansi 3 Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.0</real>
+                    <key>Green Component</key>
+                    <real>0.8</real>
+                    <key>Red Component</key>
+                    <real>0.8</real>
+                </dict>
+                <key>Ansi 4 Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.8</real>
+                    <key>Green Component</key>
+                    <real>0.0</real>
+                    <key>Red Component</key>
+                    <real>0.0</real>
+                </dict>
+                <key>Ansi 5 Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.8</real>
+                    <key>Green Component</key>
+                    <real>0.0</real>
+                    <key>Red Component</key>
+                    <real>0.8</real>
+                </dict>
+                <key>Ansi 6 Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.8</real>
+                    <key>Green Component</key>
+                    <real>0.8</real>
+                    <key>Red Component</key>
+                    <real>0.0</real>
+                </dict>
+                <key>Ansi 7 Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.9</real>
+                    <key>Green Component</key>
+                    <real>0.9</real>
+                    <key>Red Component</key>
+                    <real>0.9</real>
+                </dict>
+                <key>Background Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.15</real>
+                    <key>Green Component</key>
+                    <real>0.14</real>
+                    <key>Red Component</key>
+                    <real>0.13</real>
+                </dict>
+                <key>Cursor Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>1.0</real>
+                    <key>Green Component</key>
+                    <real>1.0</real>
+                    <key>Red Component</key>
+                    <real>1.0</real>
+                </dict>
+                <key>Foreground Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.9</real>
+                    <key>Green Component</key>
+                    <real>0.9</real>
+                    <key>Red Component</key>
+                    <real>0.9</real>
+                </dict>
+                <key>Guid</key>
+                <string>E3A62C56-6C57-4F9A-8E00-DEFAULT</string>
+                <key>Horizontal Spacing</key>
+                <real>1.0</real>
+                <key>Name</key>
+                <string>Default</string>
+                <key>Non Ascii Font</key>
+                <string>JetBrainsMono Nerd Font 14</string>
+                <key>Normal Font</key>
+                <string>JetBrainsMono Nerd Font 14</string>
+                <key>Selected Text Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.0</real>
+                    <key>Green Component</key>
+                    <real>0.0</real>
+                    <key>Red Component</key>
+                    <real>0.0</real>
+                </dict>
+                <key>Selection Color</key>
+                <dict>
+                    <key>Blue Component</key>
+                    <real>0.5</real>
+                    <key>Green Component</key>
+                    <real>0.5</real>
+                    <key>Red Component</key>
+                    <real>0.5</real>
+                </dict>
+                <key>Transparency</key>
+                <integer>0</integer>
+                <key>Use Bright Bold</key>
+                <true/>
+                <key>Use Italic Font</key>
+                <true/>
+                <key>Use Non-ASCII Font</key>
+                <false/>
+                <key>Use Transparency</key>
+                <false/>
+                <key>Vertical Spacing</key>
+                <real>1.0</real>
+            </dict>
+        </array>
+        <key>PrefsCustomFolder</key>
+        <string>~/Projects/dev/configs/iterm</string>
+    </dict>
+</plist>

@@ -38,3 +38,5 @@ handoffs
 
 # docker
 .docker
+
+~/.ssh/*
