@@ -14,7 +14,7 @@ echo "✅ pnpm installed."
 npm install -g n
 echo "✅ n installed."
 
-n lts
+sudo n lts
 echo "✅ Switched to latest LTS version of Node."
 
 # ---- Setup environment variables for n (zsh only) ----
