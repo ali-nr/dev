@@ -103,6 +103,9 @@ source $ZSH/oh-my-zsh.sh
 
 source $HOME/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
+# Warp Terminal Integration
+source ~/Projects/dev-setup/configs/warp/warp-zsh-integration.zsh
+
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home
 export ANDROID_HOME=/Users/alirezanoori/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/emulator

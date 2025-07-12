@@ -1,0 +1,10 @@
+---
+theme: snazzy
+font_family: "JetBrainsMono Nerd Font Mono"
+font_size: 14
+features:
+  ai: true
+  command_palette: true
+  blocks: true
+  autosuggestions: true
+startup_message: "Welcome to Warp! 🚀"
