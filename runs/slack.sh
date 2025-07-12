@@ -2,7 +2,7 @@
 
 set -eu
 
-echo "🖥️  Setting up Slack..."
+echo "💬 Setting up Slack..."
 
 # Install Slack
 if ! brew list --cask slack &>/dev/null; then
